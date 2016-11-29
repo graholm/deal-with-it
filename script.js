@@ -6,3 +6,5 @@ function dealWithIt() {
   console.log ("go")
   $("#glasses").animate({position: "100px"}, 1500)
 }
+
+
