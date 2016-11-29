@@ -4,5 +4,5 @@ var button = $(".deal-with-it-button")
 
 function dealWithIt() {
   console.log ("go")
-  $("#glasses").animate({top: "240px"}, 1500)
+  $("#glasses").animate({top: "250px"}, 1500)
 }
