@@ -1,4 +1,4 @@
-var button = $()
+var button = $("deal-with-it-button")
 
   button.click (dealWithIt)
 
